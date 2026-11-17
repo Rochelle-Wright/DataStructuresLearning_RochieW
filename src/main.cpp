@@ -10,5 +10,6 @@ int main()
 	std::cout << "\nPress Enter to exit...";
 	std::cin.ignore();
 	std::cin.get();
+
 	return 0;
 }
